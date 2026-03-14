@@ -20,4 +20,4 @@ The code release will include:
 - Code: **to be released**
 
 ## Contact
-Luke Brosnan
+Luke Brosnan - luke.brosnan.cbc@gmail.com
