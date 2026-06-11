@@ -1,4 +1,4 @@
-# Earnings-Call Text and the Dynamics of Uncertainty and Trading
+# Qualitative Disclosure and the Dynamics of Uncertainty and Trading
 
 This repository contains the working paper:
 
